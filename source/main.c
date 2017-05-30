@@ -1,6 +1,6 @@
 //Programmation systemes
 //TP6
-//Frederic Sallin
+//Heloy Estevanin
 
 
 #include <gba.h>

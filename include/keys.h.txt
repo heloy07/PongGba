@@ -1,0 +1,14 @@
+#define KEY_MASK     0x03FF
+
+
+void key_poll()
+{
+    //A completer
+  
+}
+
+
+inline u32 key_is_down(u32 key)   
+{   
+	//A completer
+}
